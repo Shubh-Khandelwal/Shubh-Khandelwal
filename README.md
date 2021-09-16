@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Shubh-Khandelwal
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS & JS
